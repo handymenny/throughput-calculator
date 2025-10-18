@@ -43,6 +43,7 @@ export default component$(({ selectedValue, selectedRange }: Props) => {
     track(() => dmrsREsUL.value);
     track(() => xOverheadDL.value);
     track(() => xOverheadUL.value);
+    track(() => selectedRange);
 
     if (selectedValue == null) return;
 
