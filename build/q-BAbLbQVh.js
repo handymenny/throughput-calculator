@@ -1,0 +1,1 @@
+import{r as e,k as n,_ as r,b as l,E as s,H as _}from"./q-DjP29I6Z.js";const a=e(n(()=>r(()=>import("./q-Chz2hBAl.js"),[]),"s_MMTj0J2JmqU")),t=()=>l("div",null,{class:"flex min-h-screen flex-col bg-gray-100"},[s(a,null,3,"yB_0"),l("main",null,{class:"flex flex-col justify-center px-2 py-4 sm:px-6 md:px-10"},s(_,null,3,"yB_1"),1,null)],1,"yB_2");export{t as s_VKFlAWJuVm8};
