@@ -31,7 +31,7 @@
     "@builder.io/qwik-city": "^1.5.2",
     "@qwik-ui/headless": "^0.3.8",
     "@types/eslint": "^8.56.5",
-    "@types/node": "^20.12.7",
+    "@types/node": "^20.14.11",
     "@typescript-eslint/eslint-plugin": "^7.7.1",
     "@typescript-eslint/parser": "^7.7.1",
     "autoprefixer": "^10.4.19",
